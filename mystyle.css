@@ -1,0 +1,16 @@
+h1{
+    color: rgb(red, green, blue);
+    font-size: 50px;
+}
+h2{
+    color: rgb(red, green, blue);
+    font-size: 50px;
+}
+
+.red {color: red;}
+
+.blue{color: blue;}
+
+#para1 {text-align: left;}
+
+#para1 {text-align: right;}
